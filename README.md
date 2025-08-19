@@ -53,7 +53,7 @@ Simulated IT helpdesk interface to log issues, track statuses, and assign priori
 
 ## 📬 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anriel-almeida)  
+- 💼 [LinkedIn](linkedin.com/in/anriel-a-4893b0138)  
 - 📫 Email: anriel.almeida@gmail.com  
 - 🌍 Based in County Dublin, Ireland  
 - 🌱 Currently open to part-time or junior **front-end developer** roles
